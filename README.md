@@ -1,7 +1,7 @@
 # A 20 years old web developer from Buenos Aires, Argentina
 
 ## - Today working 💻
-Nowdays i'm working on my personal projects, developing with VueJS and Node, doing a course of Full-Stack with Angular and Java-Spring-Boot
+Nowadays i'm working on my personal projects, developing with VueJS and Node, doing a course of Full-Stack with Angular and Java-Spring-Boot
 
 ## - Projects 📚
 All my projects are published [here](https://github.com/Matias-Obezzi?tab=repositories).  
