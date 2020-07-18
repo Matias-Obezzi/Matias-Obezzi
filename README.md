@@ -13,7 +13,7 @@ Repositorios en [GitHub](https://github.com/Matias-Obezzi?tab=repositories) y li
 Links:
 - [Automatas](https://automatas-mo.web.app)
 - [RedUTN](https://redutn-mo.web.app)
-- [Socket Chat](https://mo-socket-chat.herokuapp.com)
+- [Room Chat](https://mo-socket-chat.herokuapp.com)
 - [Template E-Commerce](https://ludetex-mo.web.app)
 
 ## Contacto 📱
