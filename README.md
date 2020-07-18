@@ -9,8 +9,12 @@ Formo parte de un equipo de investigación realizando una plataforma de enseñan
 En cuanto a lo laboral, me quiero formar como un desarrollador web y en un futuro ser un experto en ciberseguridad.
 
 ## Proyectos📚
-- [GitHub](https://github.com/Matias-Obezzi?tab=repositories) 
-- [Mi Web](https://matias-obezzi.github.io/#proyectos)
+Repositorios en [GitHub](https://github.com/Matias-Obezzi?tab=repositories), listado en [mi web](https://matias-obezzi.github.io/#proyectos).  
+Links:
+- [Automatas](https://automatas-mo.web.app)
+- [RedUTN](https://redutn-mo.web.app)
+- [Socket Chat](https://mo-socket-chat.herokuapp.com)
+- [Template E-Commerce](https://ludetex-mo.web.app)
 
 ## Contacto 📱
 - [Email](mailto:matiasobezzi@gmail.com)
