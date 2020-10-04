@@ -1,7 +1,7 @@
 {
   "name": "matias-obezzi",
   "version": "1.0.0",
-  "description": "<p>\r     <img src=\"https://img.shields.io/badge/-VueJS-41B883?style=flat&logo=vue.js&logoColor=white\">\r     <img src=\"https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white\">\r     <img src=\"https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white\">\r     <img src=\"https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white\">\r </p>",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
