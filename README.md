@@ -38,5 +38,8 @@ Links de mis mejores proyectos:
 
 ## Contacto 📱
 [![Email](https://img.shields.io/badge/email-00FF00?&style=for-the-badge)](mailto:matiasobezzi@gmail.com)
-[![Web Personal](https://img.shields.io/badge/web_personal-red?&style=for-the-badge)](https://matias-obezzi.github.io)
+[![Web Personal](https://img.shields.io/badge/web_personal-red?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAC7ElEQVRIS8WW4VVUQQyFbypQKxArQCsQK9AOhAqECoQKlAqEClgqUCsQKnCpQKwgnm/O5J28eTPLssdzmF9vZ3Zyk5ubZExPtOyJcPUoYHd/Lem9pOeS+GbdSLqXdG1mfG+1tgJ291NJHyXtVat/KyA/2XtZ99eSLszs7CH0jcDufiDpWwI8qYaJcFruflEdiz0cODKzHyMHhsDufizpS3MRwDdmhuGy3B3af1f6W5xjMzvvgXeBE+glEUpaSXpWDbyLSCroZ0k4GSvuHFYWTszsawu+AHb3D5KuJF2a2aG7k0PA39bL5PCo5h3QvH6aGekJNiIFk7Nx1gOGRig9MLN7dydPiAvFYghVwwAOxrqtd3CE771QuLtjz83sVfZwBpyiWHhY80n05DOv66RwSmxlZjgYUcPAd0lnZkYAZbXAeLfOdLW5cXci30/7ITRyCROL5e7s7+eoJ+DaHH7VMpg8zlbcHZF86tguAkJspKeyg+AIYuXuCI2ypCJKk8nA0ECOXsTlRBcUI7joVi02jvIfaMU5SuwuqK3q/5PpzsARzQQcEVSBRHfqsUljIbfrCoKDNzkAd3dJ52ZWSi8Do15KJsqIP8AA0eQ6bYFRcamAnkeVdhgo+Q/99IA5P6XfDmq1tT9Ta0eMgEaqoL/UeY/quFv6bWqF0IdIWsoLQxuiBQj9wGaX6hBXtoGHMZGiLiMl+X+kArXedoSZe/nETq+cssHJw6asiBAxRv+O40X0Td0vy6mKAHozlYtplEqsHYXlyMxGwczYG7XMHCAU0kLbGdw62QOOgcPZuGUOop5dqnVKF8pDIjuaxybOko6FVnrTKZp6NjbN1A1tc5bn1CbZf3gs1qjb10e5mPr5qHrYJ0rYQHyUIE+gRe/f9unD4w1DoyfOyJEu6KyB9G7Wxx7eonRENhoS7fU7ms1Oj72mbmkuva7VA+RpNA38ERVbvatT7RIx+es96JlO//dBv0lJu549KuJdQXr3/gG8HG4usZqzmgAAAABJRU5ErkJggg==)](https://matias-obezzi.github.io)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-obezzi)
+
+## Github Stats 📄
+![](https://github-readme-stats.vercel.app/api?username=matias-obezzi&show_icons=true&line_height=15&include_all_commits=true&theme=graywhite&count_private=true&hide_title=true)
