@@ -42,4 +42,4 @@ Links de mis mejores proyectos:
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-obezzi)
 
 ## GitHub Stats 📄
-[![](https://github-readme-stats.vercel.app/api?username=matias-obezzi&show_icons=true&line_height=15&include_all_commits=true&theme=graywhite&count_private=true&hide_title=true)]()
+[![](https://github-readme-stats.vercel.app/api?username=matias-obezzi&show_icons=true&line_height=15&include_all_commits=true&theme=graywhite&count_private=true&hide_title=true)](https://github.com/Matias-Obezzi?tab=repositories)
