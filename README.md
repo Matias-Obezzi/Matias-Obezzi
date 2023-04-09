@@ -20,10 +20,10 @@
 
 ## About Me 💻
 Hello! My name is **Matias**, I am a **Full Stack Developer** based in **Buenos Aires, Argentina**.  
-I am a 21 year-old **Information Systems Engineering student** at Universidad Tecnológica Nacional - FRBA.  
+I am a 22 year-old **Information Systems Engineering student** at Universidad Tecnológica Nacional - FRBA.  
 I work as a **Full Stack Developer** with many different technologies, but I work mainly with MERN and MEVN stacks.  
 Programming is something that I am truly passionate about, I find making algorithms that perform certain tasks very entertaining but also intriguing and helpful for my personal development. I also enjoy analyzing already existent algorithms, to understand why they were created, what they do and how they do it.  
-At the time, I am **working as a Unversity Researcher at CIIE - UTN** where, along with a developer's team, we are building a physics app, to help bring the university's laboratory to the students' home. I am, as well, a **Professor Assistant of Algorythms and Data Structures** (which is studied during the first year).  
+I invite you to check my full profile at [my linkedin](https://linkedin.com/in/matias-obezzi) or at [my personal webpage](https://matias-obezzi.github.io)
 
 ## [Projects](https://github.com/Matias-Obezzi?tab=repositories) 📚
 [![Physics](https://img.shields.io/badge/Physics-384D8D?&style=for-the-badge)](https://physics-ciie.herokuapp.com)  
