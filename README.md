@@ -16,8 +16,8 @@
 - 📚 Always learning new tech and improving my skills  
 
 📎 **Find me here:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-obezzi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://matias-obezzi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logoColor=white)](https://linkedin.com/in/matias-obezzi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logoColor=white)](https://matias-obezzi.github.io)
 
 ---
 
